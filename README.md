@@ -38,36 +38,36 @@ Run the script to enter flower measurements manually and receive a species predi
 python iris_predictor.py
 
 
-## Streamlit Web App
+Streamlit Web App
 
-## Run the interactive app locally:
+Run the interactive app locally:
 
 streamlit run streamlit_app.py
 
 Or access the live demo here: Live Demo Link <!-- Replace # with actual URL -->
 
-## Insights
+Insights
 
-    The Logistic Regression model achieves ~97% accuracy.
+    - The Logistic Regression model achieves ~97% accuracy.
 
-    Minor confusion occurs mainly between Versicolor and Virginica species.
+    - Minor confusion occurs mainly between Versicolor and Virginica species.
 
-    Interactive app allows users to explore how measurements influence predictions.
+    - Interactive app allows users to explore how measurements influence predictions.
 
-    Visual confusion matrix helps interpret the classifier’s errors.
+    - Visual confusion matrix helps interpret the classifier’s errors.
 
-## Future Improvements
+Future Improvements
 
-    Add more sophisticated classifiers for performance comparison.
+    - Add more sophisticated classifiers for performance comparison.
 
-    Use cross-validation for stronger model validation.
+    - Use cross-validation for stronger model validation.
 
-    Expand dataset and features for better generalization.
+    - Expand dataset and features for better generalization.
 
-    Enhance UI/UX with additional visuals and deployment to the cloud.
+    - Enhance UI/UX with additional visuals and deployment to the cloud.
 
-## Live Demo
+Live Demo
 
 Try the interactive Iris Flower Species Predictor yourself.
 
-Launch Live Demo <!-- Replace # with your deployed app URL -->
+Launch Live Demo:
