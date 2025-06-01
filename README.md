@@ -138,10 +138,12 @@ Future Improvements
 
 Try the interactive Iris Flower Species Predictor yourself.
 
-Launch Live Demo: http://bit.ly/4kLsPx4
+**Launch Live Demo:** [http://bit.ly/4kLsPx4](http://bit.ly/4kLsPx4)
 
-Live Demo
+---
 
-Experience the Iris Flower Species Predictor in action!
-Adjust the flower measurements and see the predicted species instantly.
-- Launch the app here
+## Live Demo
+
+Experience the Iris Flower Species Predictor in action!  
+Adjust the flower measurements and see the predicted species instantly.  
+- Launch the app here: [Click here to open](http://bit.ly/4kLsPx4)
